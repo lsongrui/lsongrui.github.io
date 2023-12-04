@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Songrui LI&#39;s profile</title>
+    <link>https://lsongrui.me/</link>
+    <description>Recent content on Songrui LI&#39;s profile</description>
+    <image>
+      <title>Songrui LI&#39;s profile</title>
+      <url>https://lsongrui.me/images/lsongruilogo.png</url>
+      <link>https://lsongrui.me/images/lsongruilogo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://lsongrui.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lsongrui.me/about/</link>
+      <pubDate>Mon, 16 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/about/</guid>
+      <description>My name is Songrui (Ryan) LI. My interests include leveraging machine learning algorithms for analysing and controlling high-dimensional dynamical systems, such as data-driven reduce order models (ROMs) and physics-informed neural networks. Additionally, I have a keen interest in Computational Fluid Dynamics Algorithms, and GPU-based high-performance computing. Bio Current positions Data Science Engineer (rotational) SAIC Volkswagen Automotive Co., Ltd. 🇨🇳 6/2023-present CFD Research Engineer SAIC Volkswagen Automotive Co., Ltd. 🇨🇳 5/2021 - Present Education M.</description>
+    </item>
+    
+    <item>
+      <title>Selected Projects</title>
+      <link>https://lsongrui.me/project_gallery/</link>
+      <pubDate>Mon, 16 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/project_gallery/</guid>
+      <description> Software development of SPH method, AI based aeroacoustic noise prediction, Bifurcation analysis on algae suspensions, Stability analysis to airfoil and jet flows, Wind turbine airfoil optimization (exp), Biotic UAV propellor design (sim), </description>
+    </item>
+    
+    <item>
+      <title>Software Development of SPH Method</title>
+      <link>https://lsongrui.me/projects/software_development_of_sph_method/</link>
+      <pubDate>Mon, 16 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/projects/software_development_of_sph_method/</guid>
+      <description>Industry-education Cooperation of SAIC-VW and NPU
+📍Pre-R&amp;amp;D group, SAIC Volkswagen Automotive Co., Ltd. 🇨🇳
+📍School of Software, Northwestern Polytechnical University (Suzhou) 🇨🇳
+📍Center of Industrial Software and Complex Fluids Research, Northwestern Polytechnical University (Suzhou) 🇨🇳
+📅 05/2022-present
+👨‍🏫 Academically supervised by Prof. Zhe JI
+Lead developer of team of 4, in charge of algorithm incorporation and code structure design
+DualSPHysics, CUDA, C++
+Abstract Through the introduction of new numerical models, the simulation capability of the original open-source Smoothing Length Hydrodynamic software DualSPHysics can be extended to more accurately capture the movement of water affected by factors such as air, material properties of the body surface, and its own material properties, then effectively predict the trajectory of water after rainfall.</description>
+    </item>
+    
+    <item>
+      <title>AI Based Automotive Aeroacoustic (Whistle) Noise Prediction</title>
+      <link>https://lsongrui.me/projects/ai_based_wind_noise_prediction/</link>
+      <pubDate>Mon, 16 Oct 2023 10:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/projects/ai_based_wind_noise_prediction/</guid>
+      <description>SAIC Volkswagen internal project*
+📍Pre-R&amp;amp;D group, SAIC Volkswagen Automotive Co., Ltd. 🇨🇳 📅 02/2019-06/2019 Primary developer in charge of algorithm development&amp;amp;deployment, and GUI development Project manager and key participant of team of 3 Python, Pytorch, PyQT Abstract The Automotive Aeroacoustic (Whistle) Noise Prediction Software (ANPS) is a cross-platform software designed to predict and analyze automotive internal aeroacoustic noise. Leveraging machine learning and data science technologies , ANPS utilizes wind tunnel test data to evaluate the acoustic impact of sealing strips and identify any potential design deficiencies related to these strips.</description>
+    </item>
+    
+    <item>
+      <title>Bifurcation and Oscillation Effects of Gyrotactic Swimming Microorganism Suspension in Vertical Pipe</title>
+      <link>https://lsongrui.me/projects/bifurcation_analysis_on_algae_solutions/</link>
+      <pubDate>Mon, 16 Oct 2023 09:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/projects/bifurcation_analysis_on_algae_solutions/</guid>
+      <description>Imperial College London MS.c Individual Project *
+📍Imperial College London 🇬🇧 📅 05/2020-10/2020 👨‍🏫supervised by Prof. Yongyun Hwang and Dr. Lloyd Fung Individual MATLAB Abstract The term &amp;ldquo;Gyrotactic&amp;rdquo; represents the swimming behaviour of certain types of microorganisms in suspension subjected to gravity and shear torque. The interesting collective behaviour is shown in the vertical pipe flow, that is, the cells swim toward the centre and the wall in the downward flow and the upward flow, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Flow Field Analysis Based on RANS Solver and BiGlobal Stability Theory</title>
+      <link>https://lsongrui.me/projects/stability_analysis_to_transonic_airfoil/</link>
+      <pubDate>Mon, 16 Oct 2023 08:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/projects/stability_analysis_to_transonic_airfoil/</guid>
+      <description>Undergraduate Graduation Project &amp;amp; Erasmus+ Scholarship Programme*
+📍Polytechnic University of Madrid 🇪🇸
+📅 02/2019-06/2019
+👨‍🏫supervised by Prof. Eusebio Valero Sanchez &amp;amp; Prof. Yaguo Lyu
+Individual
+DLR-TAU
+Abstract This paper combines the Rans equation solver TAU and the BiGloble stability analysis theory to analyze the flow instability and extract the main model of it.
+Firstly, a validation case of cylinder flow at Re = 60 is simulated and the results of the Strouhal number match the experience data.</description>
+    </item>
+    
+    <item>
+      <title>Optimisation of a Wind Turbine Airfoil Prototype</title>
+      <link>https://lsongrui.me/projects/wind_turbine_airfoil_optimization/</link>
+      <pubDate>Mon, 16 Oct 2023 07:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/projects/wind_turbine_airfoil_optimization/</guid>
+      <description>International Summer school: Experimental Fluid Mechanics Group Project
+📍Faculty of Mechanical Engineering, University of Southern Denmark 🇩🇰
+📅 8/2018
+director &amp;amp; lecturer: Prof. Ivar Lund
+Key participant of team of 7, in charge of 3D printing, wind tunnel boundary layer velocity profile calibration and conducting experiments
+Wind tunnel test, PIV
+Abstract This group project aims to optimize the performance of a wind turbine airfoil prototype of LM Wind Power through the introduction of effective vortex generators.</description>
+    </item>
+    
+    <item>
+      <title>Design Research on a Bionic Anti-drag Propeller</title>
+      <link>https://lsongrui.me/projects/biotic_uav_propellor_design/</link>
+      <pubDate>Mon, 16 Oct 2023 06:30:03 +0000</pubDate>
+      
+      <guid>https://lsongrui.me/projects/biotic_uav_propellor_design/</guid>
+      <description>China college students “Internet+” Innovation Competition Project *
+📍Ministry of Education 🇨🇳
+📅 04/2017-04/2018
+👨‍🏫supervised by Prof. Yangang Wang
+Idea proposer, poroject manager and key participant of team of 7, in charge of 3D modeling, CFD simulation
+Catia, Gambit, fluent
+Abstract In this study, the drag reduction propeller with serrated leading edge is designed based on the bionics principle-the fin of humpback whale. It is divided into 4 steps, CFD simulation of three kinds of straight airfoil, propeller design, propeller strength design, propeller modeling, propeller 3D printing, from the design and selection of the foundation straight airfoil to the design and research of the three-dimensional propeller.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
