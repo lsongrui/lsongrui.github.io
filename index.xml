@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Songrui LI</title>
+    <link>https://lsongrui.github.io/</link>
+    <description>Recent content on Songrui LI</description>
+    <image>
+      <title>Songrui LI</title>
+      <url>https://lsongrui.github.io/images/lsongruilogo.png</url>
+      <link>https://lsongrui.github.io/images/lsongruilogo.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://lsongrui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active learning for automotive aerodynamic prediction</title>
+      <link>https://lsongrui.github.io/projects/scientific_ml_automotive_aerodynamics/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/scientific_ml_automotive_aerodynamics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;At SAIC Volkswagen, I developed an active-learning framework for automotive aerodynamic performance prediction. It combined machine-learning models with CFD so that uncertain predictions could lead to new high-fidelity calculations and model updates.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+&lt;p&gt;A prediction model can provide a quick estimate, but its reliability depends on how well a new design resembles the available training data. The framework needed a way to identify cases requiring more simulation evidence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automated OpenFOAM workflows for vehicle aerodynamics</title>
+      <link>https://lsongrui.github.io/projects/automotive_cfd_methodology/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/automotive_cfd_methodology/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;As a CFD Methodology Engineer at SAIC Volkswagen, I developed and calibrated automated OpenFOAM workflows for external and underhood aerodynamics.&lt;/p&gt;
+&lt;h2 id=&#34;methodology-work&#34;&gt;Methodology work&lt;/h2&gt;
+&lt;p&gt;A vehicle simulation needs more than a converged solver run. Mesh resolution and numerical settings affect the result, and automated workflows must remain reliable across complex geometries.&lt;/p&gt;
+&lt;p&gt;My work included mesh-sensitivity studies, convergence assessment, and numerical robustness checks. These checks supported the use of a consistent simulation methodology across automotive cases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bifurcation and oscillation of gyrotactic suspensions</title>
+      <link>https://lsongrui.github.io/projects/bifurcation_analysis_on_algae_solutions/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/bifurcation_analysis_on_algae_solutions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;My MSc project at Imperial College London studied gyrotactic swimming microorganisms in a vertical pipe. Gravity and shear affect their swimming direction, while the cells also influence the flow through buoyancy. This coupling can produce nonuniform concentration profiles and bifurcations.&lt;/p&gt;
+&lt;p&gt;I worked under the supervision of Prof. Yongyun Hwang and Lloyd Fung.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Gyrotactic cell distributions in upflow and downflow&#34; loading=&#34;lazy&#34; src=&#34;https://lsongrui.github.io/projects/bifurcation_analysis_on_algae_solutions/gyrotactic-pipe-model.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gyrotactic cell distributions in upward and downward pipe flow.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bionic propeller design</title>
+      <link>https://lsongrui.github.io/projects/biotic_uav_propellor_design/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/biotic_uav_propellor_design/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;China college students “Internet+” Innovation Competition Project *&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📍Ministry of Education 🇨🇳&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📅 &lt;code&gt;04/2017&lt;/code&gt;-&lt;code&gt;04/2018&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;👨‍🏫supervised by &lt;a href=&#34;https://teacher.nwpu.edu.cn/wangyg.html&#34;&gt;Prof. Yangang Wang&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Idea proposer, project manager and key participant of team of 7, in charge of 3D modeling, CFD simulation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Catia&lt;/code&gt;, &lt;code&gt;Gambit&lt;/code&gt;, &lt;code&gt;fluent&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;I proposed and led a seven-person project on a bionic propeller inspired by humpback-whale fins. My work covered 3D modeling and CFD simulation.&lt;/p&gt;
+&lt;p&gt;We compared three airfoil candidates, designed and checked the propeller, produced a printed prototype, and tested it on a ground cart. The measured cart acceleration provided a limited experimental comparison with the conventional propeller. The project received Second Prize in the China College Students’ “Internet+” Innovation Competition, as recorded in my CV.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chaotic-flow sensitivity and adjoint optimization</title>
+      <link>https://lsongrui.github.io/projects/chaotic_flow_sensitivity/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/chaotic_flow_sensitivity/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+&lt;p&gt;Aerodynamic optimization needs gradients that tell us how a change in shape affects a quantity such as drag. Conventional adjoint calculations become difficult when a flow exhibits chaotic dynamics, particularly when the objective depends on a long-time average.&lt;/p&gt;
+&lt;p&gt;Least Squares Shadowing offers a way to calculate sensitivities in this setting. Its storage and computational requirements are a major obstacle for industrial CFD.&lt;/p&gt;
+&lt;h2 id=&#34;my-research&#34;&gt;My research&lt;/h2&gt;
+&lt;p&gt;I work on shadowing-based sensitivity analysis and adjoint methods in OpenFOAM. The research programme includes reformulating the shadowing problem and investigating iterative solution methods and data compression to reduce its cost. The intended application is aerodynamic shape optimization around bluff bodies and automotive geometries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FEBio–immersed-boundary coupling for biological FSI</title>
+      <link>https://lsongrui.github.io/projects/febio_immersed_boundary_fsi/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/febio_immersed_boundary_fsi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I coupled the FEBio finite-element structural solver with an in-house immersed-boundary CFD solver for large-deformation fluid–structure interaction at Vanderbilt University.&lt;/p&gt;
+&lt;p&gt;The two solvers address different parts of the problem. FEBio handles tissue mechanics, while the immersed-boundary solver handles the flow around a moving structure. The coupling exchanges fluid loads and structural motion during the simulation.&lt;/p&gt;
+&lt;h2 id=&#34;solver-coupling&#34;&gt;Solver coupling&lt;/h2&gt;
+&lt;p&gt;The flowchart below shows the exchange of interface pressures or tractions, nodal positions, and velocities. Each solver advances its own equations, and the interface iteration checks convergence before completing the time step.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flow-field analysis and BiGlobal stability</title>
+      <link>https://lsongrui.github.io/projects/stability_analysis_to_transonic_airfoil/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/stability_analysis_to_transonic_airfoil/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I carried out my undergraduate thesis at Universidad Politécnica de Madrid through an Erasmus+ exchange from Northwestern Polytechnical University. The work combined the DLR-TAU flow solver with BiGlobal stability analysis to examine unstable flow behavior.&lt;/p&gt;
+&lt;p&gt;My supervisors were Prof. Eusebio Valero Sanchez and Prof. Yaguo Lyu.&lt;/p&gt;
+&lt;h2 id=&#34;cylinder-validation&#34;&gt;Cylinder validation&lt;/h2&gt;
+&lt;p&gt;I first used cylinder flow at a Reynolds number of 60 to check the flow calculation and stability analysis. The Strouhal number agreed with the experimental reference in the thesis, and the analysis extracted the dominant mode of the wake.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPU-accelerated SPH for automotive water management</title>
+      <link>https://lsongrui.github.io/projects/software_development_of_sph_method/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/software_development_of_sph_method/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I extended DualSPHysics, an open-source smoothed particle hydrodynamics (SPH) solver, in C++/CUDA. The project introduced surface-tension and aerodynamic-drag effects for GPU-accelerated automotive rainwater simulations.&lt;/p&gt;
+&lt;p&gt;The work formed part of a collaboration between SAIC Volkswagen and Northwestern Polytechnical University. I led a team of four, working on model implementation and code structure, with academic supervision from Prof. Zhe Ji.&lt;/p&gt;
+&lt;h2 id=&#34;engineering-problem&#34;&gt;Engineering problem&lt;/h2&gt;
+&lt;p&gt;Rainwater can travel along a vehicle surface and enter areas where it causes an unwanted experience. One example is opening a wet trunk after rainfall. Predicting this motion helps engineers assess water-management behavior during design.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Machine learning for automotive aeroacoustic noise</title>
+      <link>https://lsongrui.github.io/projects/ai_based_wind_noise_prediction/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/ai_based_wind_noise_prediction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I developed the algorithm and graphical interface for Automotive Aeroacoustic Noise Prediction Software (WNPS) at SAIC Volkswagen. The software predicts the wind noise propagation paths of the holes &amp;amp; gaps and provides guidance for the development of wind noise performance on the early stage.&lt;/p&gt;
+&lt;p&gt;Physics-informed Neural Network (PINN) and data science techniques are adopted to analyze experimental data and predict.&lt;/p&gt;
+&lt;h2 id=&#34;prediction-task&#34;&gt;Prediction task&lt;/h2&gt;
+&lt;p&gt;The software reads vehicle information and experimental configurations and predicts an Articulation Index, a measure of speech intelligibility in noise. Engineers can compare the output across test states to study how changes to sealing strips affect wind-noise performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patient-specific upper-airway biomechanics</title>
+      <link>https://lsongrui.github.io/projects/upper_airway_ansa_cervicalis/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/upper_airway_ansa_cervicalis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;At Vanderbilt University, I worked on CT-based geometry reconstruction and finite-element simulation of the upper airway. The project studied how ansa cervicalis stimulation (ACS) changes airway anatomy in the context of obstructive sleep apnea. I am a joint first author of the resulting paper.&lt;/p&gt;
+&lt;h2 id=&#34;modeling-approach&#34;&gt;Modeling approach&lt;/h2&gt;
+&lt;p&gt;The study reconstructed anatomy from one adult head-and-neck CT. The workflow combined segmentation, surface smoothing, tetrahedral meshing, and registration of the anatomical components. It used literature-based linear elastic tissue properties.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wind-turbine airfoil experiments</title>
+      <link>https://lsongrui.github.io/projects/wind_turbine_airfoil_optimization/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/projects/wind_turbine_airfoil_optimization/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lsongrui.github.io/projects/&#34;&gt;← Project library&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;International Summer school: Experimental Fluid Mechanics Group Project&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📍Faculty of Mechanical Engineering, University of Southern Denmark 🇩🇰&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📅 &lt;code&gt;8/2018&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;director &amp;amp; lecturer: &lt;a href=&#34;https://portal.findresearcher.sdu.dk/en/persons/ilu&#34;&gt;Prof. Ivar Lund&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key participant of team of 7, in charge of 3D printing, wind tunnel boundary layer velocity profile calibration and conducting experiments&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Wind tunnel test&lt;/code&gt;, &lt;code&gt;PIV&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;I took part in a seven-person summer-school project examining vortex generators on an LM Wind Power airfoil prototype. My work included 3D printing the models, calibrating the wind-tunnel boundary-layer velocity profile, and conducting experiments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://lsongrui.github.io/about/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0300</pubDate>
+      <guid>https://lsongrui.github.io/about/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;I am an &lt;a href=&#34;https://marie-sklodowska-curie-actions.ec.europa.eu/&#34;&gt;MSCA&lt;/a&gt; Doctoral Candidate in the &lt;a href=&#34;http://velos0.ltt.mech.ntua.gr/research/cou.html&#34;&gt;Parallel CFD &amp;amp; Optimization Unit&lt;/a&gt; at the National Technical University of Athens. Within the &lt;a href=&#34;https://faircfd.eu/&#34;&gt;FairCFD Doctoral Network&lt;/a&gt;, I develop shadowing-based sensitivity and adjoint methods for chaotic flows, with applications to automotive aerodynamic optimization in collaboration with &lt;a href=&#34;https://toyotagazooracing.com/&#34;&gt;Toyota Gazoo Racing&lt;/a&gt;.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;li songrui.jpeg&#34;&gt;&lt;img src=&#34;li songrui.jpeg&#34; alt=&#34;li songrui&#34; style=&#34;zoom:70%;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;After completing my MSc at Imperial College London, I spent three years at SAIC Volkswagen working on automotive CFD and scientific machine learning. I then joined Vanderbilt University to study fluid–structure interaction in biomedical applications. I now work with the team behind OpenFOAM’s &lt;em&gt;&lt;a href=&#34;https://www.openfoam.com/documentation/files/adjointOptimisationFoamManual.pdf&#34;&gt;adjointShapeOptimizationFoam&lt;/a&gt;&lt;/em&gt;, extending my focus to sensitivity analysis and optimization for complex engineering flows.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
